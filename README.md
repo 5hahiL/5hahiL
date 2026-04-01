@@ -7,12 +7,17 @@ Senior Software Engineer & Lead Developer · Munich
 PHP/Laravel engineer with 15+ years building web products for European clients.
 Currently leading engineering at [Locaboo](https://locaboo.com), a resource management platform for cities and municipalities.
 
+### What I'm building at Locaboo
+
+Locaboo helps cities and municipalities manage bookings and resources — think rooms, sports facilities, and public spaces. I'm focusing on the migration of a mature CakePHP/MySQL platform to a modern NestJS/React/PostgreSQL stack.
+
 ### Stack
 
-`PHP` `Laravel` `CakePHP` `MySQL` `PostgreSQL` `MongoDB`  
-`TypeScript` `Vue.js` `Node.js` `HTML/CSS` `JavaScript`  
-`Docker` `Kubernetes` `Redis` `Git`  
-`PHPStorm` · macOS · Linux
+`PHP` `Laravel` `CakePHP` `NestJS` `TypeORM`
+`TypeScript` `React` `Vue.js` `Node.js` `HTML/CSS` `JavaScript`
+`MySQL` `PostgreSQL` `MongoDB` `Redis`
+`Docker` `Kubernetes` `Tailwind CSS` `Vite` `Git` `Graphite`
+`PHPStorm` `Cursor` `VSCode` · macOS · Linux
 
 ### Experience
 
@@ -26,10 +31,19 @@ Currently leading engineering at [Locaboo](https://locaboo.com), a resource mana
 
 [**tideways-mcp-server**](https://github.com/5hahiL/tideways-mcp-server) — MCP server for Tideways APM. Query performance metrics, traces, and errors from Claude Code and AI assistants via the Model Context Protocol.
 
+[**vue-datatable**](https://github.com/5hahiL/vue-datatable) — Advanced table component built on Vue 2 and Bootstrap 4.
+
 ### Currently exploring
 
-MCP toolchains · AI-assisted developer workflows · APM & observability
+- **AI-assisted engineering** — using Claude Code as a core dev tool with MCP integrations (Tideways, Jira, Notion, MySQL, browser automation)
+- **MCP toolchains** — building and connecting Model Context Protocol servers for developer workflows
+- **Stacked PR workflows** with Graphite CLI
+- **Incremental platform migration** — CakePHP/MySQL to NestJS/React/PostgreSQL
+
+### How I work
+
+I believe in understanding every tool I use, not just running commands. Methodical, confirmation-driven, and always learning.
 
 ---
 
-📍 Munich &nbsp;·&nbsp; 📧 shahilsham@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shahilsham/) · shahilsham@gmail.com · Munich
