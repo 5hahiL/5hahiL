@@ -1,6 +1,7 @@
 ## Shahil Sham
 
-Senior Software Engineer & Lead Developer · Munich
+Senior Software Engineer & Lead Developer · Munich  
+Fullstack engineering × AI workflows
 
 ---
 
@@ -46,4 +47,4 @@ I believe in understanding every tool I use, not just running commands. Methodic
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shahilsham/) · shahilsham@gmail.com · Munich
+[LinkedIn](https://www.linkedin.com/in/shahilsham/) · [5hahil.com](https://5hahil.com) · shahilsham@gmail.com · Munich
