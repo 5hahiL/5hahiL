@@ -1,16 +1,16 @@
 ## Shahil Sham
 
-Senior Software Engineer & Lead Developer · Munich  
+Software Engineering Consultant · Kasaragod, India  
 Fullstack engineering × AI workflows
 
 ---
 
 PHP/Laravel engineer with 15+ years building web products for European clients.
-Currently leading engineering at [Locaboo](https://locaboo.com), a resource management platform for cities and municipalities.
+From December 2026 I work as an independent contractor with [Locaboo](https://locaboo.com), a resource management platform for cities and municipalities.
 
-### What I'm building at Locaboo
+### What I work on with Locaboo
 
-Locaboo helps cities and municipalities manage bookings and resources — think rooms, sports facilities, and public spaces. I'm focusing on the migration of a mature CakePHP/MySQL platform to a modern NestJS/React/PostgreSQL stack.
+Locaboo helps cities and municipalities manage bookings and resources — think rooms, sports facilities, and public spaces. I develop both its established CakePHP/MySQL platform and its NestJS/React/PostgreSQL stack.
 
 ### Stack
 
@@ -24,7 +24,8 @@ Locaboo helps cities and municipalities manage bookings and resources — think 
 
 | | | |
 |---|---|---|
-| Locaboo GmbH | Senior Software Engineer & Lead Developer | 2024–present |
+| Locaboo GmbH | Software Engineering Consultant (contract) | Dec 2026– |
+| Locaboo GmbH | Senior Software Engineer & Lead Developer | 2024–2026 |
 | BEO Software / LOY GmbH | Sr. Software Engineer & Project Manager | 2014–2024 |
 | Phases India | Sr. Software Engineer / PHP Team Lead | 2012–2013 |
 
@@ -39,7 +40,6 @@ Locaboo helps cities and municipalities manage bookings and resources — think 
 - **AI-assisted engineering** — using Claude Code as a core dev tool with MCP integrations (Tideways, Jira, Notion, MySQL, browser automation)
 - **MCP toolchains** — building and connecting Model Context Protocol servers for developer workflows
 - **Stacked PR workflows** with Graphite CLI
-- **Incremental platform migration** — CakePHP/MySQL to NestJS/React/PostgreSQL
 
 ### How I work
 
@@ -47,4 +47,4 @@ I believe in understanding every tool I use, not just running commands. Methodic
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shahilsham/) · [5hahil.com](https://5hahil.com) · shahilsham@gmail.com · Munich
+[LinkedIn](https://www.linkedin.com/in/shahilsham/) · [5hahil.com](https://5hahil.com) · shahilsham@gmail.com · Kasaragod, India
